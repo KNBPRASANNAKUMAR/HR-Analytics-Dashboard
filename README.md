@@ -146,6 +146,6 @@ This dashboard enables HR teams and organizational leadership to:
 
 ## 👨‍💻 **Author**
 
-**Created by:** Prasanna Kumar
+**Created by:** KNB PRASANNA KUMAR
 
 ⭐ If you found this project valuable, consider giving it a star on GitHub.

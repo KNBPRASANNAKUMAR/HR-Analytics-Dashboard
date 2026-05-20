@@ -1,11 +1,11 @@
-🖼️ **Dashboard Preview**
+## 🖼️ **Dashboard Preview**
 
 <img width="4000" height="2282" alt="HR ANALYTICS DASHBOARD_page-0001" src="https://github.com/user-attachments/assets/2e0f8bbf-827b-4030-ab6d-9342b0e9dbfe" />
 
 
 
 
-📌 **Project Overview**
+## 📌 **Project Overview**
 
 The **HR Analytics Dashboard** is a comprehensive Power BI project developed to analyze employee attrition, workforce demographics, departmental performance, and salary distribution within an organization.
 
@@ -14,7 +14,7 @@ This dashboard enables HR teams and business leaders to monitor employee retenti
 The report transforms raw HR operational data into actionable business insights that support workforce planning, employee engagement, and retention strategies.
 
 
-🎯 **Problem Statement**
+## 🎯 **Problem Statement**
 
 Employee attrition and workforce inefficiencies can significantly impact organizational productivity, operational costs, and long-term business performance.
 
@@ -30,7 +30,7 @@ This dashboard was developed to solve the following business challenges:
 - Support HR decision-making using business intelligence
 
 
-🧠 **Business Objectives**
+## 🧠 **Business Objectives**
 
 - Analyze employee attrition trends across departments
 - Monitor department-wise employee distribution
@@ -40,7 +40,7 @@ This dashboard was developed to solve the following business challenges:
 - Build an executive-level HR reporting dashboard
 
 
-🔍 **Key Insights**
+## 🔍 **Key Insights**
 
 - The **Sales Department** recorded the highest employee attrition count.
 - Employees within lower salary slabs showed significantly higher attrition rates.
@@ -50,9 +50,9 @@ This dashboard was developed to solve the following business challenges:
 - Department-level analysis revealed workforce imbalance across business units.
 
 
-🧹 **Dataset Cleaning & Analysis**
+## 🧹 **Dataset Cleaning & Analysis**
 
- 🛠️ **Data Cleaning Process**
+ ### 🛠️ **Data Cleaning Process**
 
 The dataset underwent multiple preprocessing and transformation steps to improve reporting quality and analytical accuracy.
 
@@ -65,7 +65,7 @@ Key cleaning operations included:
 - Converting experience fields into structured numerical categories
 - Formatting workforce metrics for KPI reporting
 
-📈 **Data Analysis Performed**
+### 📈 **Data Analysis Performed**
 
 The following analytical processes were implemented:
 
@@ -77,7 +77,7 @@ The following analytical processes were implemented:
 - Experience-based attrition trend analysis
 
 
-⚙️ **Technical Details**
+## ⚙️ **Technical Details**
 
 
 
@@ -93,7 +93,7 @@ The following analytical processes were implemented:
 
 
 
-💡 **Power BI Skills Demonstrated**
+## 💡 **Power BI Skills Demonstrated**
 
 - HR Data Modeling
 - Power Query Data Transformation
@@ -106,7 +106,7 @@ The following analytical processes were implemented:
 
 
 
-📌 **KPIs & Metrics**
+## 📌 **KPIs & Metrics**
 
 - Total Employees
 - Active Employees
@@ -117,7 +117,7 @@ The following analytical processes were implemented:
 - Department-wise Employee Distribution
 
 
-📢 **Recommendations**
+## 📢 **Recommendations**
 
 - Improve retention programs for employees within lower salary brackets.
 - Strengthen employee engagement initiatives within high-attrition departments.
@@ -126,7 +126,7 @@ The following analytical processes were implemented:
 - Implement workforce balancing strategies across departments.
 
 
-🌍 **Project Impact**
+## 🌍 **Project Impact**
 
 This dashboard enables HR teams and organizational leadership to:
 
@@ -137,14 +137,14 @@ This dashboard enables HR teams and organizational leadership to:
 - Support data-driven HR decision-making
 
 
-🗂️ **Dataset Source**
+## 🗂️ **Dataset Source**
 
 - **Dataset:** HR Analytics Dataset
 - **Format:** CSV File
 - **Purpose:** Employee attrition and workforce analysis
 
 
-👨‍💻 **Author**
+## 👨‍💻 **Author**
 
 **Created by:** Prasanna Kumar
 
